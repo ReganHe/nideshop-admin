@@ -29,6 +29,12 @@ npm run build:web
 
 ```
 
+# 禁用签名
+测试环境打包生成客户端时禁用签名：
+```
+export CSC_IDENTITY_AUTO_DISCOVERY=false.
+```
+
 # 测试账号
 admin
 admin888
