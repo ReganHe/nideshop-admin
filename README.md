@@ -1,5 +1,5 @@
 # nideshop-admin
-Node.js开源商城NideShop管理后台（基于Node.js、Vue.js、Element UI、~~Electron~~）
+Node.js开源商城NideShop管理后台（基于Node.js、Vue.js、Element UI、Electron）
 
 ### 测试版包含功能（待完善）
 + 管理员登录
@@ -32,9 +32,6 @@ npm run build:web
 # 测试账号
 admin
 admin888
-
-喜欢别忘了Star 本项目长期更新完善，欢迎Watch 交流QQ群：497145766
-
 
 ---
 
