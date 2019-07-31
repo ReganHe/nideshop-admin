@@ -1,7 +1,5 @@
-const rootUrl = 'http://127.0.0.1:8360/admin/';
+const rootUrl = "https://qa.home.soa.ruoqingtech.com/admin/";
 
-const api = {
+const api = {};
 
-};
-
-export default api
+export default api;
